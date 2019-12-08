@@ -1,0 +1,13 @@
+{
+  "Dropping [something]": 0,
+  "Holding [something]": 1,
+  "Moving [something] from left to right": 2,
+  "Moving [something] from right to left": 3,
+  "Picking [something] up": 4,
+  "Poking [something]": 5,
+  "Pouring [something]": 6,
+  "Putting [something]": 7,
+  "Showing [something] (almost no hand)": 8,
+  "Tearing [something]": 9
+}
+
